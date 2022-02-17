@@ -12,7 +12,8 @@ https://pub.dev/
 Flutter Gems website groups the packages and plugins published in pub.dev by category. You can easily get the list of packages and plugins available for your need. 
 https://fluttergems.dev/
 
-Blogs
+**Blogs**
+
 1). Flutter Official Blog
 https://medium.com/flutter
 
@@ -31,7 +32,8 @@ https://getstream.io/blog/topic/engineering/flutter/
 6). Code With Andrea
 https://codewithandrea.com/
 
-YouTube Channels
+**YouTube Channels**
+
 1). Flutter Official Channel
 https://www.youtube.com/c/flutterdev
 
