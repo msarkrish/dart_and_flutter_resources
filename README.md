@@ -20,19 +20,22 @@ https://medium.com/flutter
 2). Google Dev Library
 https://devlibrary.withgoogle.com/products/flutter
 
-3). Flutter Community
+3). Firebase Blog
+https://firebase.blog/category/flutter
+
+4). Flutter Community
 https://medium.com/flutter-community
 
-4). Very Good Ventures
+5). Very Good Ventures
 https://verygood.ventures/blog-categories/flutter
 
-5). Codemagic
+6). Codemagic
 https://blog.codemagic.io/tags/flutter/
 
-6). Stream
+7). Stream
 https://getstream.io/blog/topic/engineering/flutter/
 
-7). Code With Andrea
+8). Code With Andrea
 https://codewithandrea.com/
 
 **YouTube Channels**
