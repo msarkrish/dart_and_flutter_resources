@@ -14,33 +14,36 @@ https://fluttergems.dev/
 
 **Blogs**
 
-1). Flutter Official Blog
+1). Official Dart Blog
+https://medium.com/dartlang
+
+2). Official Flutter Blog
 https://medium.com/flutter
 
-2). Google Dev Library
-https://devlibrary.withgoogle.com/products/flutter
-
-3). Firebase Blog
+3). Official Firebase Blog
 https://firebase.blog/category/flutter
 
-4). Flutter Community
+4). Google Dev Library
+https://devlibrary.withgoogle.com/products/flutter
+
+5). Flutter Community
 https://medium.com/flutter-community
 
-5). Very Good Ventures
+6). Very Good Ventures
 https://verygood.ventures/blog-categories/flutter
 
-6). Codemagic
+7). Codemagic
 https://blog.codemagic.io/tags/flutter/
 
-7). Stream
+8). Stream
 https://getstream.io/blog/topic/engineering/flutter/
 
-8). Code With Andrea
+9). Code With Andrea
 https://codewithandrea.com/
 
 **YouTube Channels**
 
-1). Flutter Official Channel
+1). Flutter official Channel
 https://www.youtube.com/c/flutterdev
 
 2). Flutter Community
