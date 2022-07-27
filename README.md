@@ -41,6 +41,9 @@ https://getstream.io/blog/topic/engineering/flutter/
 9). Code With Andrea
 https://codewithandrea.com/
 
+10). Vandad Nahavandipoor
+https://vandad.sh/category/framework/flutter/
+
 **YouTube Channels**
 
 1). Flutter official Channel
